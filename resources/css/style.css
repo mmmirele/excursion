@@ -4,9 +4,24 @@ body {
   background-color: black;
   color: white;
 }
+
 h1 {
   font-size: 50px;
   font-weight: bold;
   color: white;
   text-align: center;
+}
+
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
+}
+
+.footer {
+  text-align: right;
 }
